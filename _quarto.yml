@@ -12,16 +12,15 @@ website:
   
   navbar:
     logo: images/profile.jpg
-    left:
+    right:
+      - text: Portfolio website
+        href: https://bisacciamd.com
       - icon: file-earmark-text
         text: CV
         href: https://cv.bisacciamd.com/
       - icon: paperclip
         text: Publications
         href: https://cv.bisacciamd.com/publications/
-    right:
-      - text: Portfolio website
-        href: https://bisacciamd.com
   page-footer: "Developed with Quarto by Giandomenico Bisaccia — 2024" 
   reader-mode: false
 format:
